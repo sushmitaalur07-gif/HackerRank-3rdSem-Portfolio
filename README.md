@@ -24,11 +24,27 @@ This repository contains my solutions for the HackerRank Algorithmic Problem-Sol
 
 ## HackerRank Profile
 
-HackerRank Profile: ADD YOUR HACKERRANK PROFILE LINK HERE
+HackerRank Profile: https://www.hackerrank.com/profile/sushmitaalur07
 
-## Screenshots
+## HackerRank Screenshots
 
-Screenshots of accepted HackerRank submissions and badges will be added here.
+### Diagonal Difference
+![Diagonal Difference](screenshots/diagonal-difference.png)
+
+### Dynamic Array
+![Dynamic Array](screenshots/dynamic-array.png)
+
+### Time Conversion
+![Time Conversion](screenshots/time-conversion.png)
+
+### Compare the Triplets
+![Compare the Triplets](screenshots/compare-the-triplets.png)
+
+### Sparse Arrays
+![Sparse Arrays](screenshots/sparse-arrays.png)
+
+### HackerRank Badge
+![HackerRank Badge](screenshots/hackerrank-badge.png)
 
 ## Reflection
 
